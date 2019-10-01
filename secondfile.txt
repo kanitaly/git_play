@@ -1,1 +1,2 @@
 New file added , the second one 
+Second line added to the second file
